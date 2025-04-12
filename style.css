@@ -1,0 +1,28 @@
+.container {
+    margin:0px ;
+    padding: 0%;
+    background-color: rgb(241, 100, 100);
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+#result{
+    margin: 20px 80px 20px;
+}
+label, h1, button  {
+    margin: 20px 20px;
+}
+#btnGenerate {
+    background-color: rgb(255, 3, 53);
+    color: rgb(247, 246, 246);
+    border: 10%;
+   width: 100px;
+   padding: 10px 14px;
+} 
+#btnClear {
+    background-color: rgb(201, 186, 189);
+    color: black;
+    border: 10%;
+   width: 100px;
+   padding: 10px 14px;
+}
